@@ -1,0 +1,49 @@
+body {
+  margin: 0px;
+}
+
+nav {
+  font-size: 1.5em;
+}
+nav .logo {
+  width: 7rem;
+  height: 7rem;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.item {
+  text-align: center;
+}
+.item button {
+  height: 10%;
+  width: 40%;
+  background-color: #f1c30c;
+  border: 2px solid #dc9c05;
+  margin-bottom: 2rem;
+}
+
+.titulo {
+  background-color: #e7e377;
+  font-size: 2rem;
+  text-align: center;
+}
+
+img {
+  width: 20rem;
+  height: 20rem;
+  border: solid 2px #e7eb02;
+  border-radius: 1rem;
+}
+
+.inicio {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+/*# sourceMappingURL=style.css.map */
